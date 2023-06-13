@@ -10,6 +10,8 @@ Card Number: 1409962950688809 <br>
 PIN: 1234 <br><br>
 With a user-friendly interface and secure login, the "Virtual ATM System" project provides a practical and interactive solution for managing banking transactions.
 
+Project created in Intellij IDEA
+
 Screenshots:
 
 ![Screenshot (258)](https://github.com/ArkaKarmoker/Virtual-ATM-System/assets/91338507/55e45c03-d2fe-4bbc-896c-c152ec7380d3)
